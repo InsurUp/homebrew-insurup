@@ -15,7 +15,7 @@ brew tap InsurUp/tap
 Install any formula with:
 
 ```bash
-brew install InsurUp/insurup/<formula>
+brew install InsurUp/tap/<formula>
 # e.g.
 brew install InsurUp/tap/cli
 ```
